@@ -1,0 +1,8 @@
+setup.py
+BayesMLR/__init__.py
+BayesMLR/core.py
+BayesMLR.egg-info/PKG-INFO
+BayesMLR.egg-info/SOURCES.txt
+BayesMLR.egg-info/dependency_links.txt
+BayesMLR.egg-info/requires.txt
+BayesMLR.egg-info/top_level.txt

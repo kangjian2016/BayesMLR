@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: BayesMLR
+Version: 0.1
+Summary: A package implements the fast Bayesian linear regression
+Author: Jian Kang
