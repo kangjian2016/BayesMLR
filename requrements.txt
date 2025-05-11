@@ -1,3 +1,2 @@
-torch
-time
+torch # should be installed
 matplotlib
